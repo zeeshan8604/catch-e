@@ -1,0 +1,13 @@
+#box{
+    width: 10vw;
+    height: 10vw;
+    background-color: #b916f4;
+    cursor: pointer;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    padding: 20px;
+}
